@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App Padi</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="check_your_rice_health">Check Your Rice Health!</string>
+    <string name="title">title</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="retake">retake</string>
+    <string name="scan">scan</string>
+    <string name="save">Save</string>
+</resources>
