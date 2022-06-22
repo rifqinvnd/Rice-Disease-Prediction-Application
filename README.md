@@ -31,7 +31,7 @@ From the problems we have described, we agreed to implement our solution into an
 #### Machine Learning
 Google Colab/Python, Library (TensorFlow, Keras, Scikit-learn), pretrained model (DenseNet121)
 #### Android
-Android Studio/Kotlin, Firebase, Figma UI
+Android Studio/Kotlin, Firebase, [Figma UI](https://www.figma.com/file/jWjOFaHoq9wiAGi4Ymu1Y7/AppPadi?node-id=0%3A1)
 #### Cloud
 Google Cloud Platform (Google Compute Engine, Virtual Machine, Bucket)
 
