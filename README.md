@@ -9,7 +9,7 @@ Through this project, we desired to develop an application that can help the far
 The most important thing in agriculture that affects the quantity and quality of crops is plant diseases. The rice plants face a serious problem that causes the reduction of yields due to the diseases. Based on this problem, we propose the idea of developing the Rice Disease Detection application to detect diseases that often attack rice crops including Brown Spot, Hispa, and Leaf Blast). By developing this application, we believe that the farmers won’t have trouble with the disease, and rice crop quality will increase much better.
 
 ### Project Scope & Deliverables: 
-####Project Goals
+#### Project Goals
 Build an android-based application to make it easier for users, mostly farmers, to detect rice crop disease and improve the quality of rice crops.
 
 #### Project Justification
